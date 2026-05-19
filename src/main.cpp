@@ -3,8 +3,8 @@
 #include <WebServer.h>
 #include <Adafruit_NeoPixel.h>
 
-const char* ssid = "nobody";
-const char* password = "99999999";
+const char* ssid = "ssid";
+const char* password = "pwd";
 
 WebServer server(80);
 
